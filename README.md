@@ -28,6 +28,18 @@ LeakGirls is a computer application that is capable of easily downloading videos
 
 You can also check the list here: [https://leakgirls.com/Supported/](https://leakgirls.com/Supported/)
 
+## Downloading
+
+You can download it from the relase page, or on the official website [here](https://leakgirls.com/Downloads/).
+
+## Installing
+
+Simply extract the zip folder.
+
+* All versions: You will need google chrome or chromium installed
+* Linux: You need to install ffmpeg and curl
+* Mac: For the first time you run, open terminal in the folder you extracted and run `bash install.sh`
+
 ## Official website
 
 [https://leakgirls.com](https://leakgirls.com)
