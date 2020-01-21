@@ -13,18 +13,18 @@ LeakGirls is a computer application that is capable of easily downloading videos
 
 ## Tested websites
 
-Chaturbate
-MyFreeCams
-BongaCams
-RoyalCams
-Cam4
-StripChat
-XHamsterLive
-Camster
-Camsoda
-Naked.com
-Streamate
-cam.com
+* Chaturbate
+* MyFreeCams
+* BongaCams
+* RoyalCams
+* Cam4
+* StripChat
+* XHamsterLive
+* Camster
+* Camsoda
+* Naked.com
+* Streamate
+* cam.com
 
 You can also check the list here: [https://leakgirls.com/Supported/](https://leakgirls.com/Supported/)
 
