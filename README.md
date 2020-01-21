@@ -36,8 +36,8 @@ You can also check the list here: [https://leakgirls.com/Supported/](https://lea
 
 Ícaro Augusto
 
-[https://icaroaugusto.com](https://icaroaugusto.com)
-Discord: **IcaroAugusto#3303**
+* [https://icaroaugusto.com](https://icaroaugusto.com)
+* Discord: **IcaroAugusto#3303**
 
 
 ## Changelogs
