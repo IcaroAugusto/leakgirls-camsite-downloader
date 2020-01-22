@@ -54,6 +54,9 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 1.7.1 (22/01/2020)
+* Fixed ui refreshing bug
+
 ### 1.7 (21/01/2020)
 * Added a select all option.
 * Added some quick links to the website.
