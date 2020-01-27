@@ -50,9 +50,15 @@ Simply extract the zip folder.
 
 * [https://icaroaugusto.com](https://icaroaugusto.com)
 * Discord: **IcaroAugusto#3303**
-
+* Discord group: [click here](https://discord.gg/aerWHnv)
 
 ## Changelogs
+
+### 1.8 (27/01/2020)
+* Fixed issues with myfreecams, they will still block you if you download several streams at once, no way around it for now.
+* Fixed issues with stripchat and xhamsterlive
+* Fixed issues with program not working properly on computers with non latin characters
+* Removed some unused node.js modules, decreasing program size
 
 ### 1.7.1 (22/01/2020)
 * Fixed ui refreshing bug
