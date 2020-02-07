@@ -54,6 +54,9 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 1.9 (07/02/2020)
+* Fixed issues with cam4
+
 ### 1.8 (27/01/2020)
 * Fixed issues with myfreecams, they will still block you if you download several streams at once, no way around it for now.
 * Fixed issues with stripchat and xhamsterlive
