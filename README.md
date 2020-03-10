@@ -54,6 +54,9 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 1.9.1 (10/03/2020)
+* Fixed Mac version!
+
 ### 1.9.1 (02/03/2020)
 * Fixed issues stripchat
 * Fixed issues xhamsterlive
