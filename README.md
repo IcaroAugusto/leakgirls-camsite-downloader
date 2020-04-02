@@ -54,6 +54,13 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 2.0 (02/04/2020)
+* Added a confirmation when removing girls
+* Fixed window resizing issues
+* Added a new settings menu, current settings are:
+  * Ability to select in which folder to save the video
+  * Select the date format in the video file name
+
 ### 1.9.2 (21/03/2020)
 * Fixed issues with MyFreeCams
 
