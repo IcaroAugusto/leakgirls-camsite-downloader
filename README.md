@@ -54,6 +54,13 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 2.1 (15/04/2020)
+* LeakGirls now uses Streamlink instead of ffmpeg, this allows it to download encrypted streams
+* Fixed issues with camster.com
+* Fixed issues with naked.com
+* LeakGirls will now avoid 4k streams, it will download the highest resolution available up to 1080p (full hd)
+* Mac version isn't updated to 2.1 yet
+
 ### 2.0 (02/04/2020)
 * Added a confirmation when removing girls
 * Fixed window resizing issues
