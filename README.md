@@ -54,6 +54,13 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 2.2 (16/04/2020)
+* Fixed issues with stripchat
+* Fixed issues with xhamsterlive
+* Fixed a bug in which the program would show 'downloading' then 'idle' quickly after without downloading anything
+* Fixed 'recording other models' issue with camster.com and naked.com. The issue was because camster/naked would redirect you to another model's room if the given one were offline, causing the program to record another model
+* Made some changes that should increase MyFreeCams coverage
+
 ### 2.1 (15/04/2020)
 * LeakGirls now uses Streamlink instead of ffmpeg, this allows it to download encrypted streams
 * Fixed issues with camster.com
