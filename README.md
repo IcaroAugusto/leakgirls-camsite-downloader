@@ -54,6 +54,9 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 2.2.1 (17/04/2020)
+* Fixed an issue in which the program would show 'downloading' even after a stream has effectively ended
+
 ### 2.2 (16/04/2020)
 * Fixed issues with stripchat
 * Fixed issues with xhamsterlive
