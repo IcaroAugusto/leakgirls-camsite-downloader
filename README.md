@@ -54,6 +54,9 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 2.2.3 (20/04/2020)
+* Made the safeguard added in the last update optional. It's disabled by default, you can enable it in the settings menu and set the period (minimum is 10 seconds) in which to check for the file size increase.
+
 ### 2.2.2 (19/04/2020)
 * Added a safeguard: if the video file size hasn't increased in the last 10 seconds it will stop streamlink. This should ensure it doesn't say 'downloading' without actually downloading anything.
 
