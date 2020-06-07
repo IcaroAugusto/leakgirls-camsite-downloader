@@ -54,6 +54,10 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 2.2.4 (07/06/2020)
+* Fixed an issue in which the program was failing to download 1080p streams from xhamsterlive and stripchat.
+* Did some internal changes to increase success rate on myfreecams.
+
 ### 2.2.3 (20/04/2020)
 * Made the safeguard added in the last update optional. It's disabled by default, you can enable it in the settings menu and set the period (minimum is 10 seconds) in which to check for the file size increase.
 
