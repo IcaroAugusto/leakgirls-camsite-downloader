@@ -65,7 +65,7 @@ Simply extract the zip folder.
 * No longer uses Chrome to grab links
   * Now grabs stream links directly using http/websockets, this increases performance considerably especially when monitoring a lot of models.
   * Chrome is still necessary because of MyFreeCams
-    * LeakGirls checks if the MFC model is online first using webscokets.
+    * LeakGirls checks if the MFC model is online first using websockets.
     * Only if the model is online, it uses Chrome to grab the link as it is necessary to avoid being ip blocked from the site.
     * This results performance gains compared to the previous method of using Chrome to check if the model is online.
 * Changes to the program
@@ -74,7 +74,7 @@ Simply extract the zip folder.
   * Increased the size of the model status box.
   * Model data is saved as json now, it should make it easier to edit manually.
   * Now instead of copying the model's profile link, you have to copy their username and select the respective camsite.
-  * All program dependencies (chrome, node, ffmpeg etc) comes packaged in all versions. This removes the need to install anything extra to run LeakGirls.
+  * All program dependencies (chrome, node, ffmpeg etc) now come packaged in all versions. This removes the need to install anything extra to run LeakGirls.
 * MacOS changes
   * Mac version has been updated to 3.0 too, unlike in the previous versions.
   * No longer has to run an install script, all you have to do now is double click the executable right after unzipping.
