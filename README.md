@@ -54,6 +54,34 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 3.0 (04/07/2020)
+
+* This is a large update, several things have been changed, read on.
+* No longer uses streamlink.
+  * Streamlink doesn't actually convert videos while/after downloading, wasn't aware of that. All videos were actually ts videos with just a mp4/mkv extension.
+  * I wrote a simple hls downloader to use with LeakGirls, code is open and you can check it [here](https://github.com/IcaroAugusto/node-hls-downloader).
+  * If you select the mp4 or mkv format, videos will automatically be converted with ffmpeg after being downloading.
+  * If you select the ts format, nothing will be done.
+* No longer uses Chrome to grab links
+  * Now grabs stream links directly using http/websockets, this increases performance considerably especially when monitoring a lot of models.
+  * Chrome is still necessary because of MyFreeCams
+    * LeakGirls checks if the MFC model is online first using webscokets.
+    * Only if the model is online, it uses Chrome to grab the link as it is necessary to avoid being ip blocked from the site.
+    * This results performance gains compared to the previous method of using Chrome to check if the model is online.
+* Changes to the program
+  * Removed the "stream timeout" setting as it is no longer necessary.
+  * Added maximum and minimum resolution settings, default is 720p for maximum.
+  * Increased the size of the model status box.
+  * Model data is saved as json now, it should make it easier to edit manually.
+  * Now instead of copying the model's profile link, you have to copy their username and select the respective camsite.
+  * All program dependencies (chrome, node, ffmpeg etc) comes packaged in all versions. This removes the need to install anything extra to run LeakGirls.
+* MacOS changes
+  * Mac version has been updated to 3.0 too, unlike in the previous versions.
+  * No longer has to run an install script, all you have to do now is double click the executable right after unzipping.
+  * On the first run, both LeakGirls and Chrome will ask for permission to run and access folders.
+    * If you don't grant Chrome permission, you will not be able to download from MFC.
+    * If you do the above and want to enable it later, you have to run Chrome manually by running the app in Dependencies/chrome/Chromium.app
+
 ### 2.2.5 (11/06/2020)
 * Fixed an issue in which it was failing to download some videos from camsoda.
 
@@ -147,7 +175,7 @@ Simply extract the zip folder.
   * camster
   * camsoda
   * naked
-* Added ability to download from unsupported sites: It will attempt to download from the site, but success won't be guaranteed.</li>
+* Added ability to download from unsupported sites: It will attempt to download from the site, but success won't be guaranteed.
 
 ### 1.1
 * Added support for the following websites:
