@@ -54,6 +54,11 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 3.1 (06/07/2020)
+* Model's cam site is now added to file name. This fixes issues related to having models with the same name, but from different sites.
+* You can now download from unlisted sites again. To do that, select the "other" option and add the full link to the stream page. It will grab the stream link using chrome.
+* Fixed the "stuck in downloading" issue. If the video size doesn't increase in 15 seconds, download will stop automatically.
+
 ### 3.0 (04/07/2020)
 
 * This is a large update, several things have been changed, read on.
