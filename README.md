@@ -54,6 +54,10 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 3.1.1 (08/07/2020)
+* Added the "stream timeout" setting again. Default is 15 seconds, increase it if you or the models you're recording have an unstable connection and you're getting several smaller videos.
+
+
 ### 3.1 (06/07/2020)
 * Model's cam site is now added to file name. This fixes issues related to having models with the same name, but from different sites.
 * You can now download from unlisted sites again. To do that, select the "other" option and add the full link to the stream page. It will grab the stream link using chrome.
