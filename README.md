@@ -54,6 +54,9 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 3.1.2 (08/07/2020)
+* Fixed issues with camsoda, camster and naked.
+
 ### 3.1.1 (08/07/2020)
 * Added the "stream timeout" setting again. Default is 15 seconds, increase it if you or the models you're recording have an unstable connection and you're getting several smaller videos.
 
