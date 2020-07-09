@@ -54,6 +54,9 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 3.1.3 (08/07/2020)
+* Fixed issues with camsoda (again).
+
 ### 3.1.2 (08/07/2020)
 * Fixed issues with camsoda, camster and naked.
 
