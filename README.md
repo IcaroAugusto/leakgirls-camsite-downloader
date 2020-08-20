@@ -54,6 +54,10 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 3.2 (19/08/2020)
+* Fixed issues with camsoda.
+* Added support for camlive.com.
+
 ### 3.1.3 (08/07/2020)
 * Fixed issues with camsoda (again).
 
