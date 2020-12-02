@@ -56,6 +56,11 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 3.4 (02/12/2020)
+* Added the option to separate videos from each cam site in their own directory inside the videos folder, this is now the default behavior (can be changed in settings).
+* Fixed the model scroller returning to start when refreshing status.
+* Fixed issues with camster.com and naked.com.
+
 ### 3.3 (30/09/2020)
 * Fixed issues with camsoda.
 * Added support for spankbang.com.
