@@ -25,6 +25,8 @@ LeakGirls is a computer application that is capable of easily downloading videos
 * Naked.com
 * Streamate
 * cam.com
+* camlive.com
+* spankbang.com
 
 You can also check the list here: [https://leakgirls.com/Supported/](https://leakgirls.com/Supported/)
 
@@ -53,6 +55,14 @@ Simply extract the zip folder.
 * Discord group: [click here](https://discord.gg/aerWHnv)
 
 ## Changelogs
+
+### 3.3 (30/09/2020)
+* Fixed issues with camsoda.
+* Added support for spankbang.com.
+* Changed how the sites are represented in the girls.json file:
+  * The site's name instead of its index is stored now.
+  * This will improve the compatibility of the girls.json file with future updates when adding support for a new cam site.
+  * For this update, you can't reuse your girls.json file.
 
 ### 3.2 (19/08/2020)
 * Fixed issues with camsoda.
