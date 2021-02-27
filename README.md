@@ -56,6 +56,9 @@ Simply extract the zip folder.
 
 ## Changelogs
 
+### 3.6 (26/02/2021)
+* Fixed issues with camsoda.
+
 ### 3.5 (13/02/2021)
 * Fixed the scroll bug that happened when you had too many models added. It should scroll back to the same position when refreshing the list (This previously had been fixed only on the Linux version).
 * Made a few changes to the stream downloader to handle connection failures better. This should fix the issue of short videos particularly on Stripchat.
