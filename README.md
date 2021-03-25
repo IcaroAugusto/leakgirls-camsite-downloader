@@ -1,3 +1,17 @@
+LeakGirls is a badly written, bloated, overpriced piece of software. If you really want to record cam girls, just search the web for 'stream recorder'. There are tons of _free_ programs out there that don't crash constantly and that don't take up 273 MB.
+
+&nbsp;
+
+If for some godawful reason you still want to use this s████y program, rather than giving money to a spammer, you can [download a cracked version for free here](https://disk.yandex.com/d/Q7zvb0Lm06WtZQ). I still don't recommend you do for all of the reasons I just mentioned but, if you really want to use this program for some reason, at least you can without giving money to someone who's always posting spam on Reddit.
+
+&nbsp;
+
+Please feel free to share this link, re-upload the cracked version somewhere else or whatever. I don't even care if you take credit for the crack. Just make sure you include the following message somewhere obvious:
+
+**Stop posting spam on Reddit and I'll stop making cracked versions of LeakGirls!**
+
+
+
 # LeakGirls - Cam site Video Downloader
 
 LeakGirls is a computer application that is capable of easily downloading videos any cam site.
